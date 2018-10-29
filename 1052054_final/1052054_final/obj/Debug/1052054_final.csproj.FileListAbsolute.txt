@@ -1,0 +1,12 @@
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\bin\Debug\space.wav
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\bin\Debug\1052054_final.exe.config
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\bin\Debug\1052054_final.exe
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\bin\Debug\1052054_final.pdb
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\obj\Debug\Interop.WMPLib.dll
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\obj\Debug\1052054_final.csproj.ResolveComReference.cache
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\obj\Debug\_1052054_final.Form1.resources
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\obj\Debug\_1052054_final.Properties.Resources.resources
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\obj\Debug\1052054_final.csproj.GenerateResource.Cache
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\obj\Debug\1052054_final.exe
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\obj\Debug\1052054_final.pdb
+D:\二下\電腦圖學\作業\1052054_final\1052054_final\obj\Debug\1052054_final.csprojResolveAssemblyReference.cache
